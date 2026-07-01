@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0031/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 菩薩十住行道品
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T10/T10n0283.xml
+    old_id: T10n0283
+hash: sha256:6a4bb3ba7ab011cc75122995270fac1736627a7fdef255d2da8331249a129a91

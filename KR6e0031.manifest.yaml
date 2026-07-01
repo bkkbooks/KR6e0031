@@ -1,0 +1,57 @@
+canonical_identifier: bkk:krp/KR6e0031/v1
+canonical_location: https://kanripo.org/bkk/KR6e0031/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 菩薩十住行道品
+  identifiers:
+    alt_id:
+    - T10n0283
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T10/T10n0283.xml
+    old_id: T10n0283
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 宮
+  label: 宮
+  source_xml_id: wit3
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit4
+- short: 磧-CB
+  label: 磧-CB
+  source_xml_id: wit5
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0031_000.yaml, hash: 'sha256:6a4bb3ba7ab011cc75122995270fac1736627a7fdef255d2da8331249a129a91'}
+  - {seq: 1, filename: KR6e0031_001.yaml, hash: 'sha256:d7757d5019a338e94ba4e97d14edb603988e66e6cad386b067821d295067a5d2'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6e0031_001.markers.yaml, hash: 'sha256:c4ac81757e74be3873bf2d07b11daa093be15c29cbcfb9fb70174b7a280456ab'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0031_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3281
+  label: 菩薩十住行道品一卷
+  type: juan
+  level: 1
+hash: sha256:4f1fc1d918c60f771b8d13a2143ed3ebcb819015870759cb52df84a9073fd3da
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
