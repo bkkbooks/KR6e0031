@@ -46,6 +46,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR6e0031_T_000-0454b03, ed: T, 'n': 0454b03}
   - {type: variant, offset: 0, length: 0, content: '279', 大: '229'}
   - {type: variant, offset: 0, length: 0, content: '3', 大: '2'}
+  - {type: voice, offset: 0, length: 0, name: note, id: n1}
   body: []
   back: []
-hash: sha256:0e78d74731ecc3fa5669a551eae896d0b33d8278b43e79e9db1184a70acae282
+hash: sha256:bb2cd548bfdf361360d569e9e565d5b5976570e949573395d63b993e71ead3e0

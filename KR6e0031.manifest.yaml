@@ -39,7 +39,7 @@ assets:
   - {seq: 0, filename: KR6e0031_000.yaml, hash: 'sha256:6a4bb3ba7ab011cc75122995270fac1736627a7fdef255d2da8331249a129a91'}
   - {seq: 1, filename: KR6e0031_001.yaml, hash: 'sha256:db047314ad1deffabc4f37603098911e53fe345e78ed43a975b161fd313483f4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0031_000.markers.yaml, hash: 'sha256:0e78d74731ecc3fa5669a551eae896d0b33d8278b43e79e9db1184a70acae282'}
+  - {seq: 0, role: markers, filename: assets/KR6e0031_000.markers.yaml, hash: 'sha256:bb2cd548bfdf361360d569e9e565d5b5976570e949573395d63b993e71ead3e0'}
   - {seq: 1, role: markers, filename: assets/KR6e0031_001.markers.yaml, hash: 'sha256:e34cdca454e5095185b8d8879f071da5b8e2e86128531daee73bc4d989a09f8e'}
 table_of_contents:
 - ref:
@@ -52,7 +52,7 @@ table_of_contents:
   label: 菩薩十住行道品一卷
   type: juan
   level: 1
-hash: sha256:65c65b866348a384b47d9a78de20e6e52ace19939e20773e05c12cf06382057e
+hash: sha256:27d3c53c5917edf5ed0fb083d454228911905b28478c4349ffc0a1cc1c4c10d5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
